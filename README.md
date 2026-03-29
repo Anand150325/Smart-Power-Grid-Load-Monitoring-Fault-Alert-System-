@@ -96,5 +96,5 @@ Log File (grid_log.txt)
 - Pipe (IPC)
 - File Handling
 - Process Management (fork())
-
+- Mutex
 
