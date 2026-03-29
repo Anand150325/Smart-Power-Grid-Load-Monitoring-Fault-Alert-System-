@@ -41,7 +41,7 @@ The system demonstrates:
 - Sends alerts using **Pipe (write())
 
 
-  3. Alert Process
+3. Alert Process
 - Created using fork()
 - Receives alerts using read()
 - Displays alert messages on terminal
